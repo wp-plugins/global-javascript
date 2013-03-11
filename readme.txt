@@ -1,34 +1,34 @@
-=== Global Javascript ===
+== Global Javascript ==
 
-Contributors: psmagicman (Julien Law), ctlt-dev, ubcdev
+Contributors: psmagicman, ctlt-dev, ubcdev
 Donate link:
 Tags: plugin, javascript, editor, ubc, appearance, global, js, dynamic
 Requires at least: WordPress 3.5 and PHP 5.2.1
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag:
 License: GNU General Public License
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 A simple Javascript writing/editing tool
 
-=== Acknowledgements ===
+== Acknowledgements ==
 
 This plugin uses the minify library package by Steve Clay (steve@mrclay.org) and Ryan Grove (ryan@wonko.com).
 More info at http://code.google.com/p/minify/
 
-=== Description ===
+== Description ==
 
 Allows the user to create custom javascript for their Wordpress powered site on a global level.
 The Javascript made by the user of the plugin will be loaded after any other Javascript that is used by other plugins and/or themes.
 
-=== Installation ===
+== Installation ==
 
 1. Upload 'global-javascript' folder to the '/wp_content/plugins' directory. Or alternatively install through the WordPress admin dashboard.
 2. Activate the plugin through the 'Plugins' menu in the WordPress admin dashboard.
 3. Navigate to the 'Appearance' tab in the WordPress admin dashboard sidebar.
 4. Click on the link titled 'Custom JS'
 
-=== Changelog ===
+== Changelog ==
 v.1.0 - release version
 
 v0.16 - dependencies such as jQuery are now included in the plugin
