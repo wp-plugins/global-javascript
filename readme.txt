@@ -1,6 +1,6 @@
 === Global Javascript ===
 
-Contributors: psmagicman, ctlt-dev, ubcdev
+Contributors: psmagicman, ctlt-dev, ubcdev, enej
 Donate link:
 Tags: plugin, javascript, editor, ubc, appearance, global, js, dynamic
 Requires at least: WordPress 3.5 and PHP 5.2.1
